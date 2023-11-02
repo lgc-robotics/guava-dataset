@@ -8,7 +8,8 @@ A guava-dataset is released to promote the development of robotic guava harvesti
 The guava-dataset can be download here.
 
 Link: https://pan.baidu.com/s/1uw2POc4u7LZhn_A1vxLucA 
-Link: 4wos
+
+Password: 4wos
 
 ## Examples
 Some visual exmaples are given below.
